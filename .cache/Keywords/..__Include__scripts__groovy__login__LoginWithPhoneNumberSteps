@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "4921E1B099D6ABF710482EA330D00B64",
+  "keywordClasses": [
+    {
+      "name": "login.LoginWithPhoneNumberSteps",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

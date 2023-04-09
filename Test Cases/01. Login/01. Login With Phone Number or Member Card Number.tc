@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01. Login With Phone Number or Member Card Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b9a4a69-5efc-4a19-b762-45163054db57</testCaseGuid>
+</TestCaseEntity>

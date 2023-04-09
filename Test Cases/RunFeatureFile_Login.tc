@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RunFeatureFile_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c10fb760-e7ac-40c8-aab4-697f75fc1c30</testCaseGuid>
+</TestCaseEntity>
