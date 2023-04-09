@@ -30,7 +30,7 @@ Mobile.delay(5)
 
 Mobile.tap(findTestObject('android.widget.EditText - Masukkan Password'), 0)
 
-Mobile.setEncryptedText(findTestObject('android.widget.EditText - Masukkan Password'), 'kcNTWos0kApdvUWmhCiQqQ==', 0)
+Mobile.setEncryptedText(findTestObject('android.widget.EditText - Masukkan Password'), 'yLQyko6p1XTgfrNBRhnCkQ==', 0)
 
 Mobile.hideKeyboard()
 

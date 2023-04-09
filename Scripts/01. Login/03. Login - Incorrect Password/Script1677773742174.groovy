@@ -30,7 +30,7 @@ Mobile.setText(findTestObject('android.widget.EditText - Nomor HPNo. kartu membe
 
 Mobile.tap(findTestObject('android.widget.EditText - Masukkan Password'), 0)
 
-Mobile.setEncryptedText(findTestObject('android.widget.EditText - Masukkan Password'), 'kcNTWos0kArzdjCvbYvhjA==', 0)
+Mobile.setEncryptedText(findTestObject('android.widget.EditText - Masukkan Password'), 'yLQyko6p1XTgfrNBRhnCkQ==', 0)
 
 Mobile.hideKeyboard()
 
